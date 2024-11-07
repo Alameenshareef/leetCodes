@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alameenshareef/leetCodes/tree/master/0001-two-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/Alameenshareef/leetCodes/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alameenshareef/leetCodes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/Alameenshareef/leetCodes/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
