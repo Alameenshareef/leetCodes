@@ -10,7 +10,7 @@ var removeElement = function(nums, val) {
         if (nums[j] == val) {
             temp = nums[high]
             nums[high] = nums[j]
-            nums[high] = nums[j]
+           
             nums[j] = temp
             high -= 1
 
